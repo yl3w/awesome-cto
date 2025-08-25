@@ -41,10 +41,11 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [VP Engineering vs CTO](https://avc.com/2011/10/vp-engineering-vs-cto/) - Fred Wilson *(Union Square Ventures)*
  * [What makes for a successful CEO and CTO relationship in a startup?](https://www.quora.com/What-makes-for-a-successful-CEO-and-CTO-relationship-in-a-startup) *(Quora)*
  * [#define CTO](https://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe) - Greg Brockman *(Stripe CTO)*
- * [How my role as CTO has changed as we've grown to 100 engineers](https://engineering.gusto.com/how-my-role-as-cto-has-changed-as-weve-grown-to-100-engineers/)
+ * [How my role as CTO has changed as we've grown to 100 engineers](https://medium.com/gusto-engineering/how-my-role-as-cto-has-changed-as-weve-grown-to-100-engineers-b16a8a6b1a88)
  * [Your first 90 days as CTO or VP Engineering](https://lethain.com/first-ninety-days-cto-vpe/) - Will Larson
  * [How to spend your first 30 days in a new senior-level role](https://larahogan.me/blog/first-30-days-new-role/)
  * [The difference between a CTO and a VP Engineering](https://www.linkedin.com/pulse/20140615184118-4928723-the-differences-between-a-cto-and-a-vp-engineering/)
+ * [Evolution of my role as a founder CTO](https://miguelcarranza.es/cto), [Year 4 Update](https://miguelcarranza.es/cto-year-4), [Year 5 Update](https://miguelcarranza.es/cto-year-5) - Miguel Carranza
 
 
 ## Hiring
@@ -78,7 +79,6 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [44 Engineering Management Lessons](https://www.defmacro.org/2014/10/03/engman.html) (correct link to [non-violent communication](https://review.firstround.com/power-up-your-team-with-nonviolent-communication-principles) for lesson 34)
  * [The Secret To Discussing Pay With Employees](https://www.officevibe.com/blog/secret-to-discussing-pay-with-employees)
  * [Awesome Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing) *(Github)*
- * [Progressing from tech to leadership](https://lcamtuf.blogspot.com/2018/02/on-leadership.html)
  * [A Review Process](https://capwatkins.com/blog/a-review-process) - Cap Watkins
  * [12 manager readmes from top tech companies](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
  * [Predictable Delivery](https://docs.google.com/presentation/d/1weEU1G-4JAhD6tRlYinYS1ZOHI_SAUQkvTBFBzi67G0/edit)
@@ -333,6 +333,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
 
  * [Epic CTO Reading List](https://www.goodreads.com/list/show/36429.Epic_CTO_Reading_List)
  * [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
+ * [Startup CTO's Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook/)
 
 
 ## More links
@@ -352,6 +353,8 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [The Leadership Library for Engineers](https://leadership-library.dev)
  * [Rands Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/)
  * [Engineering Managers Slack](https://engmanagers.github.io)
+ * [CTO Framework](https://ctoframework.com)
+ * [CTO Insights Podcast](https://ctoinsights.adevait.com/)
 
 
 ## Other
